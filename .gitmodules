@@ -1,0 +1,21 @@
+[submodule "phpcs-extra"]
+	path = phpcs-extra
+	url = https://github.com/PHPCSStandards/PHPCSExtra.git
+[submodule "phpcs-wc"]
+	path = phpcs-wc
+	url = https://github.com/woocommerce/woocommerce-sniffs.git
+[submodule "phpcs-wp"]
+	path = phpcs-wp
+	url = https://github.com/WordPress/WordPress-Coding-Standards.git
+[submodule "phpcs-compatibility-wp"]
+	path = phpcs-compatibility-wp
+	url = https://github.com/PHPCompatibility/PHPCompatibilityWP.git
+[submodule "phpcs-compatibility-paragonie"]
+	path = phpcs-compatibility-paragonie
+	url = https://github.com/PHPCompatibility/PHPCompatibilityParagonie.git
+[submodule "phpcs-compatibility"]
+	path = phpcs-compatibility
+	url = https://github.com/PHPCompatibility/PHPCompatibility.git
+[submodule "phpcs-utils"]
+	path = phpcs-utils
+	url = https://github.com/PHPCSStandards/PHPCSUtils.git
